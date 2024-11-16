@@ -1,5 +1,4 @@
-
-#Computer Vision Data Preprocessing and Basic CNN Model
+# Computer Vision Data Preprocessing and Basic CNN Model
 
 This repository demonstrates a complete workflow for preprocessing image data and training a basic convolutional neural network (CNN) model using TensorFlow. The guide includes steps like loading data, normalizing, resizing, augmenting, splitting, and feeding it into a simple CNN model.
 
