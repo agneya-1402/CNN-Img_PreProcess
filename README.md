@@ -87,10 +87,7 @@ This repository demonstrates a complete workflow for preprocessing image data an
 ---
 
 ## Results
-
-- Training Accuracy**: Achieved ~75% accuracy on the training set.
-- Validation Accuracy**: Achieved ~80% accuracy on the validation set.
-- Test Accuracy**: Achieved ~78% accuracy on unseen data.
+- Test Accuracy**: Achieved ~64% accuracy on unseen data.
 
 The model can be fine-tuned further for better performance by:
 - Using advanced architectures (e.g., ResNet, VGG).
