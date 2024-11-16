@@ -17,12 +17,12 @@ This repository demonstrates a complete workflow for preprocessing image data an
 ---
 
 ## Features
-- Dataset Handling**: Uses CIFAR-10 dataset for demonstration.
-- Preprocessing**: Includes normalization, resizing, and one-hot encoding.
-- Augmentation**: Applies techniques like rotation, zoom, and flipping.
-- Modeling**: Implements a basic CNN for image classification.
-- Visualization**: Plots training and validation accuracy and loss.
-- Evaluation**: Tests the model on unseen data.
+- Dataset Handling: Uses CIFAR-10 dataset for demonstration.
+- Preprocessing: Includes normalization, resizing, and one-hot encoding.
+- Augmentation: Applies techniques like rotation, zoom, and flipping.
+- Modeling: Implements a basic CNN for image classification.
+- Visualization: Plots training and validation accuracy and loss.
+- Evaluation: Tests the model on unseen data.
 
 ---
 
@@ -54,14 +54,14 @@ This repository demonstrates a complete workflow for preprocessing image data an
 
 ## Workflow Overview
 
-1. Data Loading**: CIFAR-10 dataset is used for demonstration purposes.
-2. Normalization**: Image pixel values are scaled to the range [0, 1].
-3. Resizing**: Images are resized to a uniform shape of 64x64 pixels.
-4. Augmentation**: Random transformations like rotation and flipping are applied.
-5. Splitting**: Data is split into training, validation, and test sets.
-6. CNN Model**: A sequential model with convolutional, pooling, and dense layers.
-7. Training**: The model is trained with augmented data.
-8. Evaluation**: The model's performance is tested on unseen data.
+1. Data Loading: CIFAR-10 dataset is used for demonstration purposes.
+2. Normalization: Image pixel values are scaled to the range [0, 1].
+3. Resizing: Images are resized to a uniform shape of 64x64 pixels.
+4. Augmentation: Random transformations like rotation and flipping are applied.
+5. Splitting: Data is split into training, validation, and test sets.
+6. CNN Model: A sequential model with convolutional, pooling, and dense layers.
+7. Training: The model is trained with augmented data.
+8. Evaluation: The model's performance is tested on unseen data.
 
 ---
 
